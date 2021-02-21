@@ -1,0 +1,10 @@
+C:\Users\likan\OneDrive - Казанский (Приволжский) Федеральный Университет\Документы\1Study\КФУ 6 семестр\Мубараков\Praca1\bin\Debug\Praca1.exe.config
+C:\Users\likan\OneDrive - Казанский (Приволжский) Федеральный Университет\Документы\1Study\КФУ 6 семестр\Мубараков\Praca1\bin\Debug\Praca1.exe
+C:\Users\likan\OneDrive - Казанский (Приволжский) Федеральный Университет\Документы\1Study\КФУ 6 семестр\Мубараков\Praca1\bin\Debug\Praca1.pdb
+C:\Users\likan\OneDrive - Казанский (Приволжский) Федеральный Университет\Документы\1Study\КФУ 6 семестр\Мубараков\Praca1\obj\Debug\Praca1.csprojAssemblyReference.cache
+C:\Users\likan\OneDrive - Казанский (Приволжский) Федеральный Университет\Документы\1Study\КФУ 6 семестр\Мубараков\Praca1\obj\Debug\Praca1.Form1.resources
+C:\Users\likan\OneDrive - Казанский (Приволжский) Федеральный Университет\Документы\1Study\КФУ 6 семестр\Мубараков\Praca1\obj\Debug\Praca1.Properties.Resources.resources
+C:\Users\likan\OneDrive - Казанский (Приволжский) Федеральный Университет\Документы\1Study\КФУ 6 семестр\Мубараков\Praca1\obj\Debug\Praca1.csproj.GenerateResource.cache
+C:\Users\likan\OneDrive - Казанский (Приволжский) Федеральный Университет\Документы\1Study\КФУ 6 семестр\Мубараков\Praca1\obj\Debug\Praca1.csproj.CoreCompileInputs.cache
+C:\Users\likan\OneDrive - Казанский (Приволжский) Федеральный Университет\Документы\1Study\КФУ 6 семестр\Мубараков\Praca1\obj\Debug\Praca1.exe
+C:\Users\likan\OneDrive - Казанский (Приволжский) Федеральный Университет\Документы\1Study\КФУ 6 семестр\Мубараков\Praca1\obj\Debug\Praca1.pdb
